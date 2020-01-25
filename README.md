@@ -14,11 +14,11 @@ The project was founded by [xtlsoft](https://www.xtlsoft.top)
 
 ## Repositories
 
-Can be found on GitHub: https://github.com/lightim
+Can be found on GitHub: <https://github.com/lightim>
 
 ## Stack
 
-We use PHP (async library is amphp) to develop Postic, Registist (two parts of server) and Messrec (Message Record Database).
+We use PHP (async library is amphp) to develop Postic, Registry (two parts of server) and Messrec (Message Record Database).
 
 Client side: PC: Electron, Mobile: Probably React Native
 
